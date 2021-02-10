@@ -1,0 +1,19 @@
+{
+  "repo-info": [
+    {
+      "caminho/projeto-1": {
+        "modules": [
+          {
+            "path": "git",
+            "name": "aaa",
+            "vesion": "1"
+          }
+        ],
+        "properties": {
+          "owner": "x",
+          "cc": "Y"
+        }
+      }
+    }
+  ]
+}
