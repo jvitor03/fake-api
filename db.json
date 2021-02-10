@@ -1,6 +1,6 @@
 {
   "repo-info": {
-    "caminho/projeto-1": {
+    "projeto-1": {
       "modules": [
         {
           "path": "git",
@@ -11,6 +11,19 @@
       "properties": {
         "owner": "x",
         "cc": "Y"
+      }
+    },
+    "projeto-2": {
+      "modules": [
+        {
+          "path": "git2",
+          "name": "bbb",
+          "vesion": "2"
+        }
+      ],
+      "properties": {
+        "owner": "z",
+        "cc": "k"
       }
     }
   }
