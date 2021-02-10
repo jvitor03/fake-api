@@ -1,22 +1,21 @@
 {
   "repo-info": [
     {
-      "projeto-1": {
-        "modules": [
-          {
-            "path": "git",
-            "name": "aaa",
-            "vesion": "1"
-          }
-        ],
-        "properties": {
-          "owner": "x",
-          "cc": "Y"
+      "path": "projeto-1",
+      "modules": [
+        {
+          "path": "git",
+          "name": "aaa",
+          "vesion": "1"
         }
+      ],
+      "properties": {
+        "owner": "x",
+        "cc": "Y"
       }
     },
     {
-      "projeto-2": {
+      "path": "projeto-2",
         "modules": [
           {
             "path": "git2",
@@ -28,7 +27,6 @@
           "owner": "z",
           "cc": "k"
         }
-      }
     }
   ]
 }
